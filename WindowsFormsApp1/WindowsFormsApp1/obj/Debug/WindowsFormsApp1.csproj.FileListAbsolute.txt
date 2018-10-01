@@ -1,0 +1,17 @@
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Principal.resources
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.cadastro.resources
+C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
