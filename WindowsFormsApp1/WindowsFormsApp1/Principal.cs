@@ -15,7 +15,8 @@ namespace WindowsFormsApp1
     {
         public Principal()
         {
-            InitializeComponent();   
+            InitializeComponent();
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -35,6 +36,7 @@ namespace WindowsFormsApp1
             {
                 MessageBox.Show("Não conectou" +error);
             }
+            banco();
         }
         private void banco()
         {
@@ -58,9 +60,18 @@ namespace WindowsFormsApp1
             {
                 MessageBox.Show("Error ao carregar o banco de dados");
             }
+            dgv.Columns[0].HeaderText = "";
+            dgv.Columns[1].HeaderText = "Nome";
+            dgv.Columns[2].HeaderText = "Quantidade";
+            dgv.Columns[0].Width = 0;
+            dgv.Columns[1].Width = 400;
+            dgv.Columns[2].Width = 400;
         }
         private void Principal_Load(object sender, EventArgs e)
         {
+            label1.BackColor = Color.Transparent;
+            label2.BackColor = Color.Transparent;
+            label3.BackColor = Color.Transparent;
             banco();
         }
         private void button3_Click(object sender, EventArgs e)
@@ -143,5 +154,17 @@ namespace WindowsFormsApp1
             textBox1.Text = dgv.SelectedRows[0].Cells[1].Value.ToString();
             textBox2.Text = dgv.SelectedRows[0].Cells[2].Value.ToString();
         }
-     }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            menu mn = new menu();
+            mn.Show();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

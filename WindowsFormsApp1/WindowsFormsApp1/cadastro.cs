@@ -16,6 +16,8 @@ namespace WindowsFormsApp1
         public cadastro()
         {
             InitializeComponent();
+            textBox2.PasswordChar = '*';
+            textBox2.MaxLength = 60;
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -44,7 +46,15 @@ namespace WindowsFormsApp1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            this.Hide();
+            menu m = new menu();
+            m.Show();
+        }
+
+        private void cadastro_Load(object sender, EventArgs e)
+        {
+            label1.BackColor = Color.Transparent;
+            label2.BackColor = Color.Transparent;
         }
     }
 }

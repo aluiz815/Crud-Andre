@@ -16,6 +16,8 @@ namespace WindowsFormsApp1
         public login()
         {
             InitializeComponent();
+            password_txt.PasswordChar = '*';
+            password_txt.MaxLength = 60;
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -27,7 +29,8 @@ namespace WindowsFormsApp1
 
         private void login_Load(object sender, EventArgs e)
         {
-
+            txtusers.BackColor = Color.Transparent;
+            label2.BackColor = Color.Transparent;
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -42,7 +45,7 @@ namespace WindowsFormsApp1
             objcon.Open();
             MySqlCommand objcmd = objcon.CreateCommand();
             objcmd.CommandType = CommandType.Text;
-            objcmd.CommandText = "select * from tb_login where usuario='" + txt1.Text + "'and senha='" + txt2.Text + "'";
+            objcmd.CommandText = "select * from tb_login where usuario='" + txt1.Text + "'and senha='" + password_txt.Text + "'";
             objcmd.ExecuteNonQuery();
             DataTable dt = new DataTable();
             MySqlDataAdapter da = new MySqlDataAdapter(objcmd);
@@ -55,10 +58,15 @@ namespace WindowsFormsApp1
             else
             {
                 this.Hide();
-                Principal prin = new Principal();
+                menu prin = new menu();
                 prin.Show();
                 objcon.Close();
             }
+        }
+
+        private void txt2_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }   
 }

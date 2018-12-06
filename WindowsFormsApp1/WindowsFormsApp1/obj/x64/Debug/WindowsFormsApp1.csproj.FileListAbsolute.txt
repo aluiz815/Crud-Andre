@@ -15,3 +15,22 @@ C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\obj\x
 C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
 C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
 C:\Users\MAC-PC\Downloads\area de estudo\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.dll
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\MySql.Data.dll
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.xml
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.cadastro.resources
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.login.resources
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Principal.resources
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\MySql.Data.xml
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.menu.resources
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\windows\projetos\c#\Crud-Andre\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Informacao.resources
